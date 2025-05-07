@@ -38,6 +38,10 @@ body{
     background-color: rgb(7, 195, 220);
     border-radius: 15px 0 0 15px;
 }
+
+.img{
+    margin-right: 75;
+}
 .name1{
     margin-right: 65px;
     
@@ -46,7 +50,9 @@ body{
 
 #card1 button{
     color: rgb(7, 195, 220);
-    margin-bottom: 9px;
+    margin-top:20px;
+    margin-right:62px;
+
 }
 
 #card1 button:hover{
@@ -57,6 +63,12 @@ body{
     opacity: 0.08;
 }
 
+.name2{
+    margin-right:85px;
+}
+   
+
+
 #card2{
     background-color: rgb(29, 149, 242);
     border-radius: 0 0 0 0;
@@ -64,7 +76,7 @@ body{
 }
 #card2 button{
     color: rgb(29, 149, 242);
-    margin-bottom:30px;
+    margin-right: 64px;
 
 
 }
@@ -77,12 +89,17 @@ body{
     opacity: 0.08;
 }
 
+.name3{
+    margin-right: 76px;
+}
+
 #card3{
     background-color: rgb(6, 0, 128);
     border-radius: 0 15px 15px 0;
 }
 #card3 button{
     color: rgb(6, 0, 128);
+    margin-right: 56px;
      
 }
 #card3 button:hover{
